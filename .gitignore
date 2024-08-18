@@ -1,0 +1,69 @@
+# PyCharm and IDE specific files
+*.idea/
+*.iml
+*.ipr
+*.iws
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+
+# Logs and temporary files
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+*.swn
+*.smt
+*.smb
+*.smw
+*.swx
+*.swp
+*.swx~
+*.swo~
+*.swn~
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test reports
+htmlcov/
+.nosetests
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+hypothesis/
+.pytest_cache/
+pytest_cache/
+
+# Dependency management
+.pip/
+pip.conf
+.pipenv/
+.Pipfile*
+.pip-cache/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*
+*.env
+*.env.local
+*.env.*
+
